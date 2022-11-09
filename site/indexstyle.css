@@ -1,0 +1,43 @@
+body {
+    background-color: darkgreen; !inportant 
+}
+p {
+    font-size: 145%;
+}
+.green {
+	color: rgb(57, 246, 57);
+	background-color: aquamarine;
+}
+.black {
+	color: black;
+	background-color: yellow;
+}
+.orange {
+	color: rgb(230, 164, 43);
+	background-color: aqua;
+}
+.pink {
+	color: rgb(208, 57, 183);
+	background-color: aqua;
+}
+.blue {
+	color: rgb(111, 188, 251);
+	background-color: darkgoldenrod;
+}
+a:link.image:hover, a:visited {
+  text-decoration: none;
+  border: 25px solid green; 
+  width: 1850px; 
+  background-color: pink;
+  color: rgb(236, 17, 236);
+  cursor: big pointer text ;
+  display: block;
+}
+h1 > section{
+  border: 50px solid blue;
+  background: 100px solid navy;
+
+}
+article {
+    font-size: 145%;
+}
