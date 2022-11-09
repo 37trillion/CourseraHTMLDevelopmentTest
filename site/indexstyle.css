@@ -1,28 +1,28 @@
 body {
-    background-color: darkgreen; !inportant 
+    background-color: rgb(4, 45, 4); !inportant 
 }
 p {
     font-size: 145%;
 }
 .green {
 	color: rgb(57, 246, 57);
-	background-color: aquamarine;
+	background-color: rgb(235, 216, 5);
 }
 .black {
-	color: black;
+	color: rgb(85, 232, 22);
 	background-color: yellow;
 }
 .orange {
-	color: rgb(230, 164, 43);
-	background-color: aqua;
+	color: rgb(110, 237, 19);
+	background-color: rgb(255, 238, 0);
 }
 .pink {
-	color: rgb(208, 57, 183);
-	background-color: aqua;
+	color: rgb(88, 246, 15);
+	background-color: rgb(227, 251, 9);
 }
 .blue {
-	color: rgb(111, 188, 251);
-	background-color: darkgoldenrod;
+	color: rgb(31, 242, 3);
+	background-color: rgb(248, 203, 4);
 }
 a:link.image:hover, a:visited {
   text-decoration: none;
@@ -34,8 +34,8 @@ a:link.image:hover, a:visited {
   display: block;
 }
 h1 > section{
-  border: 50px solid blue;
-  background: 100px solid navy;
+  border: 50px solid rgb(214, 18, 139); !important
+  background: 100px solid rgb(252, 252, 252); !important
 
 }
 article {
